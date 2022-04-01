@@ -1,8 +1,8 @@
 {
-  "name": "nuxt-course",
+  "name": "nuxt-post-app",
   "version": "1.0.0",
-  "description": "Nuxt.js course for Udemy",
-  "author": "Maximilian Schwarzmüller",
+  "description": "",
+  "author": "",
   "private": true,
   "scripts": {
     "dev": "nuxt",
